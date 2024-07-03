@@ -1,4 +1,4 @@
-# samratojha-demo
+# samratojha-AlarmClock
 This is my first Git Repository.
 <br>
 Author - Samrat (Student Ojha)
